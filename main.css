@@ -23,3 +23,9 @@ body{
 .navbar-toggler{
     background-color:  #ffeae0;
 }
+
+@media screen and (max-width: 500px) {
+    header ul {
+        margin-top: 20px;
+    }
+}
