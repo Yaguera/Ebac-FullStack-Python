@@ -7,7 +7,7 @@ Repositório criado para armazenar os exercícios e projetos do curso Desenvolvi
 * [Games Shop (Módulo - 5) ](https://github.com/Yaguera/Ebac-modulo-5GAMESSHOP)
 * [addEventListener (Modulo - 7)](https://github.com/Yaguera/addEventListenerTESTE)
 * [To Do List (Módulo - 9)](https://github.com/Yaguera/todolistVercel)
-* [Exercício Bibliotecas JQuery (Módulo - 10])(https://github.com/Yaguera/Modulo10-EBAC)
+* [Exercício Bibliotecas JQuery (Módulo - 10)](https://github.com/Yaguera/Modulo10-EBAC)
   * [Validações com JQuery (Módulo - 10)](https://github.com/Yaguera/Exercicio-Modulo10) 
 * [Exercício Responsividade (Módulo - 11)](https://github.com/Yaguera/modulo-11-aulas-)
   * [Loja de Cookie (Módulo - 11)](https://github.com/Yaguera/Modulo11-Atividade)
