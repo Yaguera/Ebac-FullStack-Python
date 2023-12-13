@@ -8,6 +8,7 @@ Repositório criado para armazenar os exercícios e projetos do curso Desenvolvi
 * [Exercício addEventListener (Modulo - 7)](https://github.com/Yaguera/addEventListenerTESTE)
 * [Exercício Bibliotecas JQuery (Módulo - 10](https://github.com/Yaguera/Modulo10-EBAC)
 * [Exercício Responsividade (Módulo - 11)](https://github.com/Yaguera/modulo-11-aulas-)
+* [Exercício Projeto nº 3 (Módulo - 14)](https://github.com/Yaguera/Ebac-FullStack-Python/tree/projeto3-exercicio)
 
 
 ## Projetos
@@ -18,5 +19,6 @@ Repositório criado para armazenar os exercícios e projetos do curso Desenvolvi
   * [Validações com JQuery (Módulo - 10)](https://github.com/Yaguera/Exercicio-Modulo10) 
   * [Loja de Cookie (Módulo - 11)](https://github.com/Yaguera/Modulo11-Atividade)
   * [Bootstrap Avançado (Módulo - 13)](https://github.com/Yaguera/AtividadeBootstrap13)
+  * 
 
   
