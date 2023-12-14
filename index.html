@@ -1,27 +1,31 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto:wght@400;700&display=swap"
+        rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="main.css">
 </head>
+
 <body>
-    <header class="navbar navbar-expand-lg sticky-top p-3">
+    <header id="cabecalho" class="navbar navbar-expand-lg sticky-top p-3">
         <div class="container">
-            <h1 class="navbar-brand m-0">Logo</h1>
+            <h1 class="navbar-brand m-0 section-title">Logo</h1>
             <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#menu-navegacao">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <nav class="navbar-collapse collapse justify-content-end" id="menu-navegacao">
                 <ul class="nav nav-pills d-block d-md-flex">
                     <li class="nav-item fw-bold">
-                        <a class="nav-link active" href="">
+                        <a class="nav-link" href="#sobre-o-restaurante">
                             <i class="bi bi-house-door me-1"></i>
                             Sobre o Restaurante
                         </a>
@@ -48,18 +52,60 @@
             </nav>
         </div>
     </header>
-    <div class="sobre-o-restaurante">
-        <div class="carousel slide">
-            <div class="carousel-inner">
-                <div class="carousel-item">
-                    <img src="" alt=""></div>
-                <div class="carousel-item">
-                    <img src="" alt=""></div>
-                <div class="carousel-item">
-                    <img src="" alt=""></div>
+    <div data-bs-spy="scroll" data-bs-target="#cabecalho">
+        <section id="sobre-o-restaurante">
+            <div class="carousel slide" data-bs-ride="carousel" id="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active" data-bs-interval="3000">
+                        <img src="images/slides/slide1.png" alt="foto do espaço interno">
+                    </div>
+                    <div class="carousel-item" data-bs-interval="3000">
+                        <img src="images/slides/slide2.png" alt="Duas taças de vinho">
+                    </div>
+                    <div class="carousel-item" data-bs-interval="3000">
+                        <img src="images/slides/slide3.png" alt="Mesa com comida">
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carousel" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon"></span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carousel" data-bs-slide="next">
+                        <span class="carousel-control-next-icon"></span>
+                    </button>
+                    <div class="carousel-indicators">
+                        <button data-bs-target="#carousel" data-bs-slide-to="0" class="active"></button>
+                        <button data-bs-target="#carousel" data-bs-slide-to="1"></button>
+                        <button data-bs-target="#carousel" data-bs-slide-to="2"></button>
+                    </div>
+                </div>
             </div>
-        </div>
+            <div class="pt-5 pb-5">
+                <div class="container ">
+                    <div class="row">
+                        <div class="col-5">
+                            <img src="images/restaurante.jpg" alt="espaço interno do restaurante"
+                                class="d-block w-100 rounded">
+                        </div>
+                        <div class="col-7">
+                            <h2 class="section-title">Sobre <span>o restaurante</span></h2>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid dolore doloribus soluta
+                                pariatur dolorum consectetur ut accusantium quasi magnam laudantium placeat deleniti
+                                distinctio obcaecati, perspiciatis est optio aut impedit sapiente?</p>
+                            <h3 class="section-title">Sobre <span>o espaço</span></h3>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, debitis.</p>
+                            <ul>
+                                <li>Item 1</li>
+                                <li>Item 2</li>
+                                <li>Item 3</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
     </div>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
 </body>
+
 </html>
