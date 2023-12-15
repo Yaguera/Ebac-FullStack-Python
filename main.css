@@ -49,10 +49,26 @@ body {
     color: #e15f41;
 }
 
-.nav-cardapio .nav-link.active{
+/* cardapio */
+
+.nav-cardapio .nav-link.active,
+#fale-conosco button{
     background-color: #e15f41;
+    color: #fff;
 }
 
 .nav-cardapio .nav-link:hover {
     color: #e15f41;
 }
+
+/* fale conosco */
+
+.social-links li{
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
