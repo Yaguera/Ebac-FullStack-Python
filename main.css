@@ -45,14 +45,14 @@ body {
 
 }
 
-.text-colored{
+.text-colored {
     color: #e15f41;
 }
 
 /* cardapio */
 
 .nav-cardapio .nav-link.active,
-#fale-conosco button{
+#fale-conosco button {
     background-color: #e15f41;
     color: #fff;
 }
@@ -63,7 +63,7 @@ body {
 
 /* fale conosco */
 
-.social-links li{
+.social-links li {
     list-style: none;
     display: inline;
 }
@@ -71,4 +71,3 @@ body {
 .social-links a {
     text-decoration: none;
 }
-
