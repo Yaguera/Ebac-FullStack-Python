@@ -23,7 +23,7 @@ body {
     background-color: #ffeae0;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 767px) {
     header ul {
         margin-top: 20px;
     }
@@ -49,6 +49,12 @@ body {
     color: #e15f41;
 }
 
+@media(max-width: 767px){
+    .carousel-item img{
+        height: 268px ;
+    }
+}
+
 /* cardapio */
 
 .nav-cardapio .nav-link.active,
@@ -70,4 +76,8 @@ body {
 
 .social-links a {
     text-decoration: none;
+}
+
+textarea{
+    resize:none;
 }
