@@ -18,5 +18,6 @@ Repositório criado para armazenar os exercícios e projetos do curso Desenvolvi
 ## Projetos
   * [Biblioteca Popular (Projeto-1 / Módulo - 5)](https://github.com/Yaguera/Atividade_Modulo-5)
   * [Lista de Contatos (Projeto-2 / Módulo - 8)](https://github.com/Yaguera/Modulo8-ListaContatos)
+  * [Purplay - Gaming Store (Projeto-3 / Módulo - 14)](https://github.com/Yaguera/Purplay-GamingStore)
 
   
