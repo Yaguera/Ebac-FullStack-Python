@@ -13,6 +13,7 @@ Repositório criado para armazenar os exercícios e projetos do curso Desenvolvi
   * [Loja de Cookie (Módulo - 11)](https://github.com/Yaguera/Modulo11-Atividade)
 * [Bootstrap Avançado (Módulo - 13)](https://github.com/Yaguera/AtividadeBootstrap13)
 * [Exercício Projeto nº 3 (Módulo - 14)](https://github.com/Yaguera/Ebac-FullStack-Python/tree/projeto3-exercicio)
+* [Exercício SASS (Módulo - 15)](https://github.com/Yaguera/Modulo-15-Sass-atividade-)
 
 
 ## Projetos
