@@ -14,6 +14,7 @@ Repositório criado para armazenar os exercícios e projetos do curso Desenvolvi
 * [Bootstrap Avançado (Módulo - 13)](https://github.com/Yaguera/AtividadeBootstrap13)
 * [Exercício Projeto nº 3 (Módulo - 14)](https://github.com/Yaguera/Ebac-FullStack-Python/tree/projeto3-exercicio)
 * [Exercício SASS (Módulo - 15)](https://github.com/Yaguera/Modulo-15-Sass-atividade-)
+* [Exercício Boas Práticas CSS (Módulo - 19)](https://github.com/Yaguera/Ebac-FullStack-Python/tree/boas_praticas_css)
 
 
 ## Projetos
